@@ -9,7 +9,7 @@ Bienvenido a mi bitácora de aprendizaje rumbo a convertirme en un profesional D
 
 ---
 
-## 🧠 Contenido
+##  Contenido
 
 - Comandos básicos de Linux
 - Uso de editores `nano` y `vim`
@@ -20,7 +20,7 @@ Bienvenido a mi bitácora de aprendizaje rumbo a convertirme en un profesional D
 
 ---
 
-## 📁 Archivos
+##  Archivos
 
 - `comandos-basicos.md`: Comandos y explicación detallada
 - `estructura-linux.md`: Guía sobre el sistema de archivos
